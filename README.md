@@ -1,6 +1,6 @@
-Name: KANNAN R
+#Name: KANNAN R
 
-Reg NO:212224240072
+#Reg NO:212224240072
 # Exno:1
 Data Cleaning Process
 
